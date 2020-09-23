@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# 芒果影院 天天看片天天爽
+:sunglasses::sunglasses:芒果影院 地址发布:sunglasses::sunglasses:
+==
+:heart: :point_right: 【地址一】 ：https://www.mg00v.com
+------
+:heart: :point_right: 【地址二】 ：https://www.mg11v.com
+------
+:heart: :point_right: 【地址三】 ：https://www.mg22v.com
+------
+:heart: :point_right: 【地址四】 ：https://www.mg33v.com
+------
+:heart: :point_right: 【地址五】 ：https://www.mg44v.com
+------
+:sunglasses:重要提醒:sunglasses:收藏本页面，避免迷路！
+==
 
-You can use the [editor on GitHub](https://github.com/mgsphub/1/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+-
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mgsphub/1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+:e-mail: __邮箱联系方式: mgsp@mail.com（以上地址无法访问请发送任意内容获取最新地址）__
